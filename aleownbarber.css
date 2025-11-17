@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body, header  {
+    background: black;
+}
+
+
+
+h1 { font-family: "Kolker Brush", cursive;
+color:white;
+font-weight:400;
+font-size: 45pt;}
+
+.cortes { margin-top: -1.7vh;
+margin-left:1vh;}
+
+.nave {
+display: block; 
+color:white; }
+
+ul {list-style: none; } 
+
+a{ color: white;
+    font-size:25pt ;
+ }
+
+ .foto { width:35%;
+    margin-left: -2%}
+
